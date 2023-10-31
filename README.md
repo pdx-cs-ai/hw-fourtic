@@ -7,9 +7,10 @@ problem.
 
 The six `rand` problems are from randomly-generated board
 positions. The six `play` problems are positions from real
-games played with depth-4 negamax.
+computer-vs-computer games. (The player played with depth-4
+negamax, but that is somewhat irrelevant here.)
 
-The solutions are:
+The solutions (all 14 evaluated with unlimited depth) are:
 
     rand-2: X 3
     rand-3: O 0
